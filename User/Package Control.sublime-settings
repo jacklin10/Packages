@@ -1,0 +1,29 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"Clipboard Manager",
+		"DocBlockr",
+		"GitGutter",
+		"Local History",
+		"Markdown Preview",
+		"Package Control",
+		"PlainTasks",
+		"Project Manager",
+		"Ruby Slim",
+		"RubyTest",
+		"SCSS",
+		"SFTP",
+		"SideBarEnhancements",
+		"Solarized Color Scheme",
+		"SublimeLinter",
+		"SublimeLinter-ruby",
+		"Theme - Brogrammer",
+		"Theme - Soda SolarizedDark",
+		"Theme - Sodarized"
+	]
+}
