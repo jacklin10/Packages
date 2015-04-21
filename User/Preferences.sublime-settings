@@ -1,5 +1,24 @@
 {
-	"color_scheme": "Packages/Solarized Color Scheme/Solarized (light).tmTheme",
+	"added_words":
+	[
+		"td",
+		"btn",
+		"thead",
+		"br",
+		"tbody",
+		"inline",
+		"ilike",
+		"grant([:staff",
+		"sysop",
+		"uniq",
+		"Timeline",
+		"readonly",
+		"config",
+		"g:%i%a",
+		"json"
+	],
+	"close_windows_when_empty": true,
+	"color_scheme": "Packages/Solarized Color Scheme/Solarized (dark).tmTheme",
 	"find_selected_text": true,
 	"font_face": "Monaco",
 	"font_size": 15.0,
@@ -17,7 +36,7 @@
 	"show_full_path": true,
 	"spell_check": true,
 	"tab_size": 2,
-	"theme": "Sodarized Light.sublime-theme",
+	"theme": "Sodarized Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": false
